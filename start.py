@@ -73,3 +73,12 @@ lista4 = [
     [7, 8, 9]
 ]
 lista4[1][1] # 5
+
+# słownik
+slownik = {}
+slownik2 = {"klucz": "wartosc"}
+slownik3 = {0: "Adam"}
+slownik2["klucz"]
+slownik3[0]
+slownik2.keys()
+slownik2.values()
