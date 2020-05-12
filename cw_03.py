@@ -22,7 +22,7 @@ print(b)
 
 #slownik = dict = {'ziemniaki': 'kg', 'chleb': 'szt', 'mleko 1l': 'szt', 'kawa': 'szt', 'winogrona': 'kg'}
 #print(dict.values("szt"))
-# w tym zadaniu nie wiem dlaczego nie chce zwrócić mi wartości jakich chcę
+
 
 # zadanie 4 -------
 
@@ -114,5 +114,5 @@ def lista_zakupow(** lista):
         print(co)
         print(" kupuje")
         print(lista[co])
-lista_zakupow = (ziemniaki-"5", mleko-"2", chleb-"3")
-# tego niestety nie wiem jak zrobić, prosiłbym o komentarz
+        lista_zakupow = (ziemniaki-"5", mleko-"2", chleb-"3")
+
